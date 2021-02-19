@@ -1,0 +1,42 @@
+html {
+    font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
+    font-family: 'Akaya Kanadaka', cursive
+  }
+
+  h1 {
+    font-size: 50px;
+    text-align: start;
+  }
+  p {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  li {
+    font-size: 13px;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #E6F9F7;
+  }
+
+  body {
+    width: 1000px;
+    margin: 10 10 10 10;
+    background-color: #F2C5A5;
+    padding: 0 5px 160px 60px;
+    border: 6px solid black;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #191919;
+    text-shadow: 3px 3px 5px white;
+  }
+
+  img {
+    display: block;
+    margin: 0 0;
+  }
