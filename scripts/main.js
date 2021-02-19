@@ -18,7 +18,7 @@ let myButton = document.querySelector('button');
 let myHeading = document.querySelector('h1');
 
 function setUserName() {
-  let myName = prompt('你他媽叫什麽？');
+  let myName = prompt('花枝魷魚面？');
   if(!myName) {
     setUserName();
   } else {
