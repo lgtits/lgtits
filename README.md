@@ -1,2 +1,1 @@
-# lgtits.github.io
-panda
+#panda
